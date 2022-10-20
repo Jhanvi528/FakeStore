@@ -4407,7 +4407,7 @@
     "debug" "^3.1.0"
     "execa" "^0.10.0"
 
-"next@^11.1.2", "next@>=10.2.0":
+"next@^11.1.4", "next@>=10.2.0":
   "integrity" "sha512-GWQJrWYkfAKP8vmrzJcCfRSKv955Khyjqd5jipTcVKDGg+SH+NfjDMWFtCwArcQlHPvzisGu1ERLY0+Eoj7G+g=="
   "resolved" "https://registry.npmjs.org/next/-/next-11.1.4.tgz"
   "version" "11.1.4"

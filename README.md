@@ -1,12 +1,14 @@
-# Fakebazaar
+# Fake Store
 
-![Fakebazaar](https://i.ibb.co/gFGScBW/fakebazaar.png)
+![Fake Store](https://i.ibb.co/gFGScBW/fakebazaar.png)
 
 ## About
 
 ### Particiants
 
-Atharv - @Athi223
+Jhanvi - @Jhanvi528
+Aarav- @AaravGoyall
+Aman - @fake-aman
 
 ### Description
 
