@@ -9,7 +9,7 @@
 /coverage
 
 # next.js
-/.next/
+# /.next/
 /out/
 
 # production
@@ -18,7 +18,7 @@
 # misc
 .DS_Store
 *.pem
-/my-medusa-store
+# /my-medusa-store
 
 # debug
 npm-debug.log*
