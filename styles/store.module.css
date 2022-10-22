@@ -62,13 +62,13 @@
 }
 
 .card {
-  width: 350px;
-  height: 550px;
+  width: 550px;
+  height: 350px;
   margin: 2rem;
   padding: 1.5rem;
 
   color: inherit;
-  background-color: #f7f6fb;
+  background-color: #FFE7CC;
   text-align: left;
   text-decoration: none;
   border: 2px solid #eaeaea;

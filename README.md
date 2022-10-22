@@ -1,13 +1,13 @@
 # Fake Store
 
-![Fake Store](https://i.ibb.co/gFGScBW/fakebazaar.png)
+![Fake Store](../FakeStore/public/fakebazaar.png)
 
 ## About
 
 ### Particiants
 
 Jhanvi - @Jhanvi528
-Aarav- @AaravGoyall
+Aarav- @Aaravgoyall
 Aman - @fake-aman
 
 ### Description
