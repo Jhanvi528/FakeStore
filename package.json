@@ -9,6 +9,7 @@
 		"start": "next start",
 		"lint": "next lint"
 	},
+	
 	"dependencies": {
 		"@medusajs/medusa-js": "^1.0.3",
 		"@stripe/react-stripe-js": "^1.4.1",
