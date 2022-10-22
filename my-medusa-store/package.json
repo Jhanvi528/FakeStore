@@ -5,7 +5,8 @@
   "author": "Sebastian Rindom <skrindom@gmail.com>",
   "license": "MIT",
   "engines": {
-    "node": "16.13.2"
+    "node": "16.13.2",
+    "npm":"8.1.2"
   },
   "scripts": {
     "serve": "medusa start",
