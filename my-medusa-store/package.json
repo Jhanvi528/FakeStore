@@ -4,6 +4,9 @@
   "description": "A starter for Medusa projects.",
   "author": "Sebastian Rindom <skrindom@gmail.com>",
   "license": "MIT",
+  "engines": {
+    "node": "16.13.2"
+  },
   "scripts": {
     "serve": "medusa start",
     "start": "medusa develop",
