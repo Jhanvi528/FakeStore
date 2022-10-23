@@ -1,6 +1,6 @@
 # Fake Store
-
-![Fake Store](../FakeStore/public/fakebazaar.png)
+<!-- <a href="https://ibb.co/XxFQTZ4"><img src="https://i.ibb.co/4R4qxZf/fakebazaar.png" alt="fakebazaar" border="0"></a> -->
+![Fake Store](https://i.ibb.co/4R4qxZf/fakebazaar.png)
 
 ## About
 
@@ -12,12 +12,7 @@ Aman - @fake-aman
 
 ### Description
 
-A storefront built using **MedusaJS** + **NextJS**, deployed on **Heroku**(_backend_) + **Netlify**(_frontend_) with a small touch of _Upstash_ for **Redis**
-
-### Demo
-
-[FakeBazaar](https://fakebazaar-medusajs.netlify.app)
-
+A storefront built using **MedusaJS** + **NextJS**
 ### Setup
 
 Prerequisites:
@@ -34,7 +29,7 @@ Run the development server:
 
 ### Preview
 
-![Home Page](https://i.ibb.co/xqwzw4n/Homepage.png)
-![Product Page](https://i.ibb.co/TgLNB0S/Productpage.png)
-![Cart Preview](https://i.ibb.co/9YvWnpk/Cart-Preview.png)
-![Checkout Info](https://i.ibb.co/qpn6Sqg/Checkout-Info.png)
+![Home Page](https://i.ibb.co/R2B11fm/Screenshot-20221022-233203.png)
+![Product Page](https://i.ibb.co/g9PqYw9/Screenshot-20221022-233254.png)
+![Cart Preview](https://i.ibb.co/NFhb2C9/Screenshot-20221022-233316.png)
+![Checkout Info](https://i.ibb.co/nkQcS0z/Screenshot-20221023-153006.png)
