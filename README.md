@@ -4,7 +4,7 @@
 
 ## About
 
-### Particiants
+### Participants
 
 Jhanvi - [@Jhanvi528](https://github.com/Jhanvi528)<br>
 Aarav- [@Aaravgoyall](https://github.com/aaravgoyall)<br>
